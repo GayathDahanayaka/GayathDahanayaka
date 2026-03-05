@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋 I'm Gayath Dahanayaka</h1>
-
 <p align="center">
-Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gayath%20Dahanayaka&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h1 align="center">Hi 👋 I'm Gayath Dahanayaka</h1>
+
+<h3 align="center">
+Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Mobile+Developer;Always+Learning+New+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Flutter+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Software Engineering Undergraduate at **SLIIT**
-- 💻 Passionate about **Full Stack Development**
-- 🤖 Interested in **Artificial Intelligence**
-- 📱 Mobile Development with **Flutter**
-- 🌱 Currently learning **Cloud & AI technologies**
-- 🎯 Goal: Become a **Software Engineer / AI Engineer**
+🎓 Software Engineering Undergraduate at **SLIIT**
+
+💻 Passionate about **Full Stack Development**
+
+🤖 Interested in **Artificial Intelligence & Computer Vision**
+
+📱 Mobile App Development using **Flutter**
+
+🌱 Currently learning **Cloud & AI Technologies**
+
+🎯 Goal: Become a **Software Engineer / AI Engineer**
 
 ---
 
@@ -81,17 +90,13 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 # 👀 Profile Views
 
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=GayathDahanayaka&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=GayathDahanayaka&label=Profile%20views&color=blue"/>
 
 ---
 
-# ⚡ Fun Fact
+# 🐍 Contribution Snake
 
-💡 I love building **AI-powered applications and scalable systems**
+![snake gif](https://github.com/GayathDahanayaka/GayathDahanayaka/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
