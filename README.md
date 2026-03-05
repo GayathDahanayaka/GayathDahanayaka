@@ -1,47 +1,82 @@
-# Hi 👋 I'm Gayath Dahanayaka
+<h1 align="center">Hi 👋, I'm Gayath Dahanayaka</h1>
+<h3 align="center">Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast</h3>
 
-🎓 Software Engineering Undergraduate at SLIIT  
-💻 Full Stack Developer  
-🤖 AI Enthusiast  
-📱 Mobile App Developer  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Mobile+App+Developer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AI, Cloud, and Advanced Full Stack Development**
-- 💡 Interested in **Machine Learning, Computer Vision, and Web Development**
+- 🎓 Software Engineering Undergraduate at **SLIIT**
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Interested in **Artificial Intelligence & Computer Vision**
+- 📱 Mobile App Development with **Flutter**
+- 🌱 Currently learning **Cloud & AI Technologies**
 - 🎯 Goal: Become a **Software Engineer / AI Engineer**
-- 📍 Sri Lanka
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayath%20Dahanayaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gayath-dahanayaka)
+<p align="left">
+<a href="https://www.linkedin.com/in/gayath-dahanayaka" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=GayathDahanayaka&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayathDahanayaka&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathDahanayaka&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GayathDahanayaka&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayathDahanayaka&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/GayathDahanayaka/GayathDahanayaka/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building **AI-powered applications and scalable web systems**
 
 ---
 
