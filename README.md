@@ -1,34 +1,39 @@
-<h1 align="center">Hi 👋, I'm Gayath Dahanayaka</h1>
-<h3 align="center">Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Gayath Dahanayaka</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Mobile+App+Developer;Always+Learning+New+Technologies" />
+Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Mobile+Developer;Always+Learning+New+Tech"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Software Engineering Undergraduate at **SLIIT**
 - 💻 Passionate about **Full Stack Development**
-- 🤖 Interested in **Artificial Intelligence & Computer Vision**
-- 📱 Mobile App Development with **Flutter**
-- 🌱 Currently learning **Cloud & AI Technologies**
+- 🤖 Interested in **Artificial Intelligence**
+- 📱 Mobile Development with **Flutter**
+- 🌱 Currently learning **Cloud & AI technologies**
 - 🎯 Goal: Become a **Software Engineer / AI Engineer**
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gayath-dahanayaka" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+
+<a href="https://www.linkedin.com/in/gayath-dahanayaka">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -46,19 +51,19 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GayathDahanayaka&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GayathDahanayaka&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathDahanayaka&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathDahanayaka&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -68,15 +73,25 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-![snake gif](https://github.com/GayathDahanayaka/GayathDahanayaka/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathDahanayaka&theme=tokyo-night"/>
 
 ---
 
-## ⚡ Fun Fact
+# 👀 Profile Views
 
-💡 I love building **AI-powered applications and scalable web systems**
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=GayathDahanayaka&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I love building **AI-powered applications and scalable systems**
 
 ---
 
